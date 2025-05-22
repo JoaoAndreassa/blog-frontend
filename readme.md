@@ -111,4 +111,7 @@ ipconfig
 
 Ele vai retornar algo como:
 Endereço IPv4. . . . . . . . . . . . . : 192.111.1.11
+
+
+sem isso o front não se comunica com o back
 ```
